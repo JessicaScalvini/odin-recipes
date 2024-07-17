@@ -1,1 +1,2 @@
-#First Odin project
+First exercise for TOP. 
+
